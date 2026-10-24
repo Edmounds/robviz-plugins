@@ -1,0 +1,6 @@
+.teleop .rv-actions { padding: 2px 12px; gap: var(--panel-gap); }
+.teleop-topic { flex: 1; min-width: 0; }
+.teleop-value { color: var(--text-muted); font-family: var(--mono); }
+.teleop-pad { display: grid; grid-template-columns: repeat(3, 44px); gap: 4px; justify-content: center; padding: 8px 0 2px; }
+.teleop-pad .rv-button { height: 36px; font-size: 14px; user-select: none; touch-action: none; }
+.teleop-hint { padding: 4px 12px 8px; color: var(--text-faint); font-size: var(--fs-meta); }

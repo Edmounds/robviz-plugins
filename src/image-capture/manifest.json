@@ -1,0 +1,12 @@
+{
+  "id": "image-capture",
+  "name": "图像采集 (Image Capture)",
+  "version": "0.1.0",
+  "sdkApiVersion": 1,
+  "entry": "index.js",
+  "style": "style.css",
+  "files": ["index.js", "style.css"],
+  "requiredServices": [
+    { "id": "video", "protocolVersion": 1 }
+  ]
+}

@@ -1,0 +1,2 @@
+.teleop .rv-actions{gap:var(--panel-gap);padding:2px 12px}.teleop-topic{flex:1;min-width:0}.teleop-value{color:var(--text-muted);font-family:var(--mono)}.teleop-pad{grid-template-columns:repeat(3,44px);justify-content:center;gap:4px;padding:8px 0 2px;display:grid}.teleop-pad .rv-button{-webkit-user-select:none;user-select:none;touch-action:none;height:36px;font-size:14px}.teleop-hint{color:var(--text-faint);font-size:var(--fs-meta);padding:4px 12px 8px}
+/*$vite$:1*/

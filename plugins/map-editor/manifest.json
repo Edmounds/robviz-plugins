@@ -1,0 +1,13 @@
+{
+  "id": "map-editor",
+  "name": "地图编辑 (Map Editor)",
+  "version": "0.1.0",
+  "sdkApiVersion": 1,
+  "entry": "index.js",
+  "style": "style.css",
+  "files": [
+    "index.js",
+    "style.css"
+  ],
+  "requiredServices": []
+}
