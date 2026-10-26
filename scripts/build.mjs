@@ -9,13 +9,10 @@ await mkdir("release-assets");
 
 const pluginDirs = [
   "example-odom-hud",
-  "image",
   "image-capture",
   "map-editor",
   "nav-goals",
-  "plot",
   "teleop",
-  "terminal",
   "urdf-editor",
   "waypoints-editor",
 ];

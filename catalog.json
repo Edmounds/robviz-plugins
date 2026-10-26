@@ -11,15 +11,6 @@
       }
     },
     {
-      "id": "image",
-      "version": "0.1.0",
-      "directory": "image",
-      "sha256": {
-        "manifest.json": "2d77b92f0fd374684b41af5f41c723f0138e2897bde2d532a3760bfc117dedb2",
-        "index.js": "43c0ef6975cefb1b8d4c2ddf4fb5c4df1a85056006768b1197ffc9f046000b61"
-      }
-    },
-    {
       "id": "image-capture",
       "version": "0.1.0",
       "directory": "image-capture",
@@ -49,16 +40,6 @@
       }
     },
     {
-      "id": "plot",
-      "version": "0.1.0",
-      "directory": "plot",
-      "sha256": {
-        "manifest.json": "aa91d10d3bb1f9d5d5e680d96732fa4c7df9167e3a2e14b92cf1b2c3033e4dab",
-        "index.js": "5c58c889995b823649a02931be1831202da4920a1cf8e7783c65988a6a6f3674",
-        "style.css": "f82bb6978d354b1f4df970db4d7ee3184ba7b2ef16f2fbe0379bf38834a55f12"
-      }
-    },
-    {
       "id": "teleop",
       "version": "0.1.0",
       "directory": "teleop",
@@ -66,16 +47,6 @@
         "manifest.json": "be605234fea82c97037a10b2479b1d2c719a2882f245b3f9eec11b7a6b9aa436",
         "index.js": "2012afaf7524a6502f4edb8939d7233a3b331d1b8e4528d9840d56753315fda3",
         "style.css": "04c606fd779125cbdffd52e575b85dc386bd3857f5ef1a560d1d50e5e6d3b8c4"
-      }
-    },
-    {
-      "id": "terminal",
-      "version": "0.1.0",
-      "directory": "terminal",
-      "sha256": {
-        "manifest.json": "2cc7d027729d7f65bf00964b73f711547e08fadbd94c43e91816b792fccc71e8",
-        "index.js": "3893c25d1dba81486dbba6a566301a2fc7c01ef5160042c2cd0ad211df6a735e",
-        "style.css": "09305e47af0fbffbede21b33fcd3b0abeee560c93afafda33542fa7ee8fd031c"
       }
     },
     {

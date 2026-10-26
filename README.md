@@ -4,16 +4,15 @@
 
 ## 包含插件
 
+> 提示：基础调试插件 `image`（WebRTC 图像/设置）、`terminal`（远程终端）与 `plot`（实时曲线）已作为开箱即用默认插件内置于 RobViz Core 宿主仓库的 `plugins/` 中。
+
 | 插件 ID | 名称 | 类型 | 说明 |
 |---|---|---|---|
 | `teleop` | 遥控 (Teleop) | 停靠区块 | 键盘 (WASD/方向键) 与按键底盘速度控制 |
 | `nav-goals` | 导航位姿 (Nav Goals) | 视口工具与设置 | 3D 视口导航目标与初始位姿点选交互 |
-| `plot` | 曲线 (Plot) | 停靠面板 | 基于 uPlot 的多话题多字段实时曲线监控 |
-| `terminal` | 终端 (Terminal) | 抽屉/面板 | 浏览器在线远程 Shell 终端 |
 | `map-editor` | 地图编辑 (Map Editor) | 顶栏页面 | 2D 栅格地图编辑、清除与 PGM/YAML 导入导出 |
 | `waypoints-editor` | 航点编辑 (Waypoints Editor) | 顶栏页面 | 2D 航点路线规划、底图对齐与航点属性编辑 |
 | `urdf-editor` | URDF 编辑 (URDF Editor) | 顶栏页面 | URDF 模型 3D 预览、关节控制与 XML 源码编辑 |
-| `image` | 图像 (Image) | 停靠面板 | 相机实时图像与 WebRTC 视频流播放 |
 | `image-capture` | 图像采集 (Image Capture) | 顶栏页面 | 原始 RGB 预览与无损 PNG 截图采集 |
 | `example-odom-hud` | 速度 HUD | 停靠区块 | 独立安装的示例，不再内置于 Core |
 
