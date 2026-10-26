@@ -7,7 +7,7 @@ import {
   relativeArrivalSec,
   seriesKey,
   zoomTimeWindow,
-} from "../src/plot/plotMath.ts";
+} from "../plot/plotMath.ts";
 
 describe("Plot plugin math and windowing", () => {
   it("uses one relative arrival-time domain for every topic", () => {

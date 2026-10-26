@@ -4,97 +4,97 @@
     {
       "id": "example-odom-hud",
       "version": "0.1.0",
-      "directory": "plugins/example-odom-hud",
+      "directory": "example-odom-hud",
       "sha256": {
         "manifest.json": "2d9e1b7dac46ca0f475380ef612bf987416bfc1d518c48051e8a10be61118209",
-        "index.js": "9f60ffd7a7671fa98e72c5440d7906b192b9385fcaf41204750256a4bb915318"
+        "index.js": "720302bef52a1d4fae2c58af60fd8c2dd1f96536656f919aa885273d64f62eab"
       }
     },
     {
       "id": "image",
       "version": "0.1.0",
-      "directory": "plugins/image",
+      "directory": "image",
       "sha256": {
         "manifest.json": "2d77b92f0fd374684b41af5f41c723f0138e2897bde2d532a3760bfc117dedb2",
-        "index.js": "a742d344c70bc52b395515aaaee35c15cf20cdd693776aacabcbd959dd6aef61"
+        "index.js": "43c0ef6975cefb1b8d4c2ddf4fb5c4df1a85056006768b1197ffc9f046000b61"
       }
     },
     {
       "id": "image-capture",
       "version": "0.1.0",
-      "directory": "plugins/image-capture",
+      "directory": "image-capture",
       "sha256": {
         "manifest.json": "e3e739cba53e4db5b2e14a37ba8873d913a7a1e8b33b61cd1953ad28ac46284e",
-        "index.js": "cdee222960fff678124e83e9c32f0c0ad0f542eacc6f258ff50e7a14654391ea",
+        "index.js": "a3efa132b9852b4a81dc7e3521f32601b24a74decd11823997460d4f8f088e40",
         "style.css": "6800dad3a10b74ad5b4403b98af329e336989a82e358f5de8ec24d388b9b5e7a"
       }
     },
     {
       "id": "map-editor",
       "version": "0.1.0",
-      "directory": "plugins/map-editor",
+      "directory": "map-editor",
       "sha256": {
         "manifest.json": "40ecb3cd9f74e573f791daa8c2516fff189a43162fdd3561e4dde70d0a4bad00",
-        "index.js": "6903041f879d39e56836ff8347a441285a0984068d0303d6e929dd96fdb9960f",
+        "index.js": "7df7e2065f3f56907c932c005d525632405e20427fe18303708e17562e1307c5",
         "style.css": "de62108267c351a7b03c58cd292a15531b3de7710da75da74e8b88ca0b10e127"
       }
     },
     {
       "id": "nav-goals",
       "version": "0.1.0",
-      "directory": "plugins/nav-goals",
+      "directory": "nav-goals",
       "sha256": {
         "manifest.json": "a8d9dbc9a6a53540fdc4b8a5f8daa29288119e5bfa1865669e1a1512d7f5fe0c",
-        "index.js": "17b5b8c699928b07d58f5cb27484848b6a0f1e40f1b140cf856f86f620fe376d"
+        "index.js": "239eb33ec1527aceabdca22a3e2693ded45810127c8d29beaecc29d71b321afd"
       }
     },
     {
       "id": "plot",
       "version": "0.1.0",
-      "directory": "plugins/plot",
+      "directory": "plot",
       "sha256": {
         "manifest.json": "aa91d10d3bb1f9d5d5e680d96732fa4c7df9167e3a2e14b92cf1b2c3033e4dab",
-        "index.js": "f447b0e7a5d54052b23a1d2c467e1caca51a23d16ff1ed522bf1ae08e55659be",
+        "index.js": "5c58c889995b823649a02931be1831202da4920a1cf8e7783c65988a6a6f3674",
         "style.css": "f82bb6978d354b1f4df970db4d7ee3184ba7b2ef16f2fbe0379bf38834a55f12"
       }
     },
     {
       "id": "teleop",
       "version": "0.1.0",
-      "directory": "plugins/teleop",
+      "directory": "teleop",
       "sha256": {
         "manifest.json": "be605234fea82c97037a10b2479b1d2c719a2882f245b3f9eec11b7a6b9aa436",
-        "index.js": "912ab920ee4f083fc4378b6c1ded825549abe37b90762bee13fcc171489f741a",
+        "index.js": "2012afaf7524a6502f4edb8939d7233a3b331d1b8e4528d9840d56753315fda3",
         "style.css": "04c606fd779125cbdffd52e575b85dc386bd3857f5ef1a560d1d50e5e6d3b8c4"
       }
     },
     {
       "id": "terminal",
       "version": "0.1.0",
-      "directory": "plugins/terminal",
+      "directory": "terminal",
       "sha256": {
         "manifest.json": "2cc7d027729d7f65bf00964b73f711547e08fadbd94c43e91816b792fccc71e8",
-        "index.js": "b6480aa79325ecbadc84e9963521cffe0bc7cc3c799c6acec6b4873a20ad00b2",
+        "index.js": "3893c25d1dba81486dbba6a566301a2fc7c01ef5160042c2cd0ad211df6a735e",
         "style.css": "09305e47af0fbffbede21b33fcd3b0abeee560c93afafda33542fa7ee8fd031c"
       }
     },
     {
       "id": "urdf-editor",
       "version": "0.1.0",
-      "directory": "plugins/urdf-editor",
+      "directory": "urdf-editor",
       "sha256": {
         "manifest.json": "38387d65e7c920ae036fce5bb1bb0dc385fb554d3bfb13b1a23e5908e0a98a3b",
-        "index.js": "5d24d1838bb67bd0c95e08adb54f4f19efc6a410953f79b31e79ec877066304c",
+        "index.js": "54e95cfbc786056a2974e7128d472a69a7b437144c6521a0805102045254007b",
         "style.css": "639119e8377da806070b3a97047cf9052842accd629746a4512e89fe08f4dfa1"
       }
     },
     {
       "id": "waypoints-editor",
       "version": "0.1.0",
-      "directory": "plugins/waypoints-editor",
+      "directory": "waypoints-editor",
       "sha256": {
         "manifest.json": "c05ddbd92dda0a11372827dd1f39496a31598f08d4f2225f5d1c46720c1efce4",
-        "index.js": "dc6d2bb3b1f92551eb0dbd3a2ecc271d63eb02215f5fbdce8b52b00de0db493e",
+        "index.js": "5a270f54103125664ed14d1bf792f9eefee584e4f2de625d4e50b8db01aad940",
         "style.css": "4b2e4f25fde4b5f90b0496a7875568b2bf5d42ebadfe5721f84e0128d72c07e6"
       }
     }

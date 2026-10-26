@@ -11,5 +11,6 @@
     "types": ["vite/client"],
     "allowArbitraryExtensions": true
   },
-  "include": ["src"]
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "dist", "release-assets", "tests"]
 }

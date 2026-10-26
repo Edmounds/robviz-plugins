@@ -6,7 +6,7 @@ import {
   serializeMapYaml,
   serializePgm,
   type EditableMap,
-} from "../src/map-editor/mapio.ts";
+} from "../map-editor/mapio.ts";
 
 function makeMap(): EditableMap {
   const width = 8;

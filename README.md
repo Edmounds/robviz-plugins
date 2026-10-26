@@ -27,17 +27,18 @@ npm test          # 运行纯数学与协议单元测试 (Node.js 内置 test ru
 npm run build     # 编译全部插件并生成 catalog.json
 ```
 
-编译产物生成在 `plugins/<id>/` 目录，每个插件包含：
+编译产物直接输出在各个插件目录 `<id>/` 下，每个插件独立为一个完整目录：
 - `manifest.json`：声明元数据、入口和文件列表
 - `index.js`：ESM 模块入口，自身依赖已打入
-- 可选 `style.css`：插件作用域样式
+- 可选 `style.css`：编译生成的作用域样式
+- 源代码文件：`index.tsx`、`<id>.css` 及相关 TypeScript 源码
 
 ## 安装到 RobViz 宿主
 
-将编译好的 `plugins/<id>/` 文件夹复制到 RobViz 运行环境的 `plugins/` 目录：
+将插件文件夹复制到 RobViz 宿主运行环境的 `plugins/` 目录：
 
 ```bash
-cp -R plugins/<id> /path/to/robviz/plugins/<id>
+cp -R <id> /path/to/robviz/plugins/<id>
 cd /path/to/robviz && npm run plugins:scan
 ```
 

@@ -13,7 +13,7 @@ import {
   worldToImagePixel,
   zoomViewAtAnchor,
   type View2DTransform,
-} from "../src/waypoints-editor/view2d.ts";
+} from "../waypoints-editor/view2d.ts";
 
 describe("2D View transform utilities", () => {
   const baseView: View2DTransform = {

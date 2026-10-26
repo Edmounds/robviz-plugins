@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { canTeleopWrite, readTeleopState } from "../src/teleop/state.ts";
+import { canTeleopWrite, readTeleopState } from "../teleop/state.ts";
 
 describe("Teleop plugin state", () => {
   it("permits control only for the active connected session", () => {

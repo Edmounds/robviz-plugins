@@ -4,7 +4,7 @@ import {
   parseTerminalTarget,
   terminalClientMessageSchema,
   validateTerminalUsername,
-} from "../src/terminal/protocol.ts";
+} from "../terminal/protocol.ts";
 
 describe("terminal protocol", () => {
   it("extracts the SSH host from valid websocket URLs", () => {

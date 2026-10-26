@@ -5,7 +5,7 @@ import {
   handleGoalPose,
   handleInitialPose,
   readNavPluginState,
-} from "../src/nav-goals/pose.ts";
+} from "../nav-goals/pose.ts";
 
 function createMockContext(overrides: Partial<PluginContext> = {}) {
   const published: Array<{ topic: string; schema: string; message: unknown }> = [];
